@@ -1,0 +1,4 @@
+vhdl isim_temp "g_a_OUT.vhd"
+vhdl isim_temp "a_g_p_Creator.vhd"
+vhdl isim_temp "LadnerFischerAdder_16Bit.vhd"
+vhdl isim_temp "LadnerFischerAdder_16Bit_tb.vhd"

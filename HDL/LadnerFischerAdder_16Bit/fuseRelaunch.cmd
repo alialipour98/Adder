@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/LadnerFischerAdder_16Bit_tb_isim_beh.exe" -prj "C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/LadnerFischerAdder_16Bit_tb_beh.prj" "work.LadnerFischerAdder_16Bit_tb" 

@@ -1,0 +1,1 @@
+vhdtdtfi -prj LadnerFischerAdder_16Bit -o C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/a_g_p_Creator.vhi -module a_g_p_Creator -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work a_g_p_Creator.vhd 

@@ -1,0 +1,10 @@
+Command line:
+   LadnerFischerAdder_16Bit_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  5685
+
+Fri Apr 21 17:49:03 2023
+
+
+ Elaboration Time: 0.046875 sec

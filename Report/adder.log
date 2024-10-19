@@ -1,0 +1,658 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2024.10.17)  18 OCT 2024 17:06
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/USER/Documents/edit_project/Adder/Report/adder.tex
+(c:/Users/USER/Documents/edit_project/Adder/Report/adder.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2021/03/17 v3.33 KOMA-Script document class (article)
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
+ (c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/03/17 v3.33 KOMA-Script package (using LaTeX hooks)
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     93.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     173.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     191.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 234.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 242.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 247.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 261.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     274.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 298.
+
+ (c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/03/17 v3.33 KOMA-Script package (logo)
+))) (c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+Skipping: [2021/05/01] Usage of raw option list on input line 252.
+Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 337.
+)) (c:/texlive/2021/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/03/17 v3.33 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box47
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 135.
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input line 2239.
+ (c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2021/03/17 v3.33 KOMA-Script font size class option (11pt)
+) (c:/texlive/2021/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2021/03/17 v3.33 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count179
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: Maybe no optimal type area settings!
+(typearea)             The detected line width is about 29%
+(typearea)             smaller than the heuristically estimated maximum
+(typearea)             limit of typographical good line width.
+(typearea)             You could e.g. increase DIV, decrease fontsize
+(typearea)             or change the papersize.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 19
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 503.16458pt
+(typearea)              DIV departure   = 29%
+(typearea)              \evensidemargin = -25.09831pt
+(typearea)              \oddsidemargin  = -25.09831pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 718.20032pt
+(typearea)              \topmargin      = -65.19385pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1741.
+)
+\c@part=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\scr@dte@section@maxnumwidth=\skip53
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4846.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4846.
+\scr@dte@part@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4854.
+\scr@dte@subsection@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4864.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4864.
+\scr@dte@subsubsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4874.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4874.
+\scr@dte@paragraph@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4885.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4885.
+\scr@dte@subparagraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4895.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4895.
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\c@pti@nb@sid@b@x=\box48
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6127.
+\scr@dte@figure@maxnumwidth=\skip61
+\c@figure=\count186
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6139.
+\scr@dte@table@maxnumwidth=\skip62
+\c@table=\count187
+Class scrartcl Info: Redefining `\numberline' on input line 6303.
+\bibindent=\dimen138
+) (c:/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip63
+\multirow@cntb=\count188
+\multirow@dima=\skip64
+\bigstrutjot=\dimen139
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (c:/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count189
+\l__pdf_internal_box=\box49
+)) (c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+ (c:/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+)) (c:/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+ (c:/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen142
+\l@babelnohyphens=\language87
+ (c:/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+ (c:/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)) (c:/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+\MT@toks=\toks16
+\MT@count=\count192
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen143
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count193
+ (c:/texlive/2021/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip65
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (c:/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+)) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip66
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen144
+)) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks18
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks19
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks20
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (c:/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip69
+\thm@postskip=\skip70
+\thm@headsep=\skip71
+\dth@everypar=\toks27
+) (c:/texlive/2021/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+ (c:/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count272
+))
+Class scrartcl Info: amsthm's \deferred@thm@head patched.
+ (c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+ (c:/texlive/2021/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+)) (c:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (c:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: KOMA-Script document class detected.
+ (c:/texlive/2021/texmf-dist/tex/latex/caption/caption-koma.sto
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count273
+\c@continuedfloat=\count274
+) (c:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count275
+\@cmidlb=\count276
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count277
+\@lastruleclass=\count278
+\@thisrulewidth=\dimen172
+) (c:/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (c:/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (c:/texlive/2021/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+
+Class scrartcl Warning: Incompatible package `sectsty' loaded!
+(scrartcl)              Package `sectsty' up to version 2.0.2 is incompatible
+(scrartcl)              with KOMA-Script from version 2.8e released in 2001.
+(scrartcl)              You should avoid that package and configure the
+(scrartcl)              section titles of your document using the KOMA-Script
+(scrartcl)              user interface, e.g., \chapterlinesformat,
+(scrartcl)              \RedeclareSectionCommand etc. or you should ask
+(scrartcl)              the `sectsty' maintainer for a more compatible release.
+(scrartcl)              Ignoring this warning could result in several error
+(scrartcl)              messages and formatting issues after loading package
+(scrartcl)              `sectsty' on input line 15.
+
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
+(scrartcl)              they support KOMA-Script classes.
+(scrartcl)              With `fancyhdr' several features of class `scrartcl'
+(scrartcl)              like options `headsepline', `footsepline' or command
+(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrartcl)              `\addtokomafont' for the page style elements need
+(scrartcl)              explicite user intervention to work.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 18.
+
+(c:/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip72
+\f@nch@O@elh=\skip73
+\f@nch@O@erh=\skip74
+\f@nch@O@olh=\skip75
+\f@nch@O@orh=\skip76
+\f@nch@O@elf=\skip77
+\f@nch@O@erf=\skip78
+\f@nch@O@olf=\skip79
+\f@nch@O@orf=\skip80
+) (c:/texlive/2021/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) (c:/texlive/2021/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+ (c:/texlive/2021/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
+\MFP@loopctr=\count279
+)
+\c@DefaultLines=\count280
+\c@DefaultDepth=\count281
+\DefaultFindent=\dimen173
+\DefaultNindent=\dimen174
+\DefaultSlope=\dimen175
+\DiscardVskip=\dimen176
+\L@lbox=\box52
+\L@tbox=\box53
+\c@L@lines=\count282
+\c@L@depth=\count283
+\L@Pindent=\dimen177
+\L@Findent=\dimen178
+\L@Nindent=\dimen179
+\L@lraise=\dimen180
+\L@first=\dimen181
+\L@next=\dimen182
+\L@slope=\dimen183
+\L@height=\dimen184
+\L@novskip=\dimen185
+\L@target@ht=\dimen186
+\L@target@dp=\dimen187
+\L@target@tht=\dimen188
+\LettrineWidth=\dimen189
+\LettrineHeight=\dimen190
+\LettrineDepth=\dimen191
+\Llist@everypar=\toks28
+
+Loading lettrine.cfg
+(c:/texlive/2021/texmf-dist/tex/latex/lettrine/lettrine.cfg)) (c:/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip81
+\thanksmargin=\skip82
+\droptitle=\skip83
+) (c:/Users/USER/Documents/edit_project/Adder/Report/adder.aux)
+\openout1 = `adder.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+Package scrbase Info: activating english \contentsname on input line 67.
+Package scrbase Info: activating english \listfigurename on input line 67.
+Package scrbase Info: activating english \listtablename on input line 67.
+ (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen192
+\scratchbox=\box54
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen193
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks30
+) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Info: Redefining \microtypecontext on input line 67.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 67.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (c:/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 67.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 69.
+ (c:/texlive/2021/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package lettrine.sty Info: Targeted height = 32.82709pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 33.3677pt ( \color {DarkGoldenrod} {\textsf {A}});
+(lettrine.sty)             reported on input line 78.
+
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input line 84.
+
+
+
+pdfTeX warning: pdflatex.exe (file c:/Users/USER/Documents/edit_project/Adder/Visio/LadnerFischerAdder_16Bit.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<C:\Users\USER\Documents\edit_project\Adder\Visio\LadnerFischerAdder_16Bit.pdf, id=1, 692.82838pt x 323.76959pt>
+File: C:\Users\USER\Documents\edit_project\Adder\Visio\LadnerFischerAdder_16Bit.pdf Graphic file (type pdf)
+<use C:\Users\USER\Documents\edit_project\Adder\Visio\LadnerFischerAdder_16Bit.pdf>
+Package pdftex.def Info: C:\Users\USER\Documents\edit_project\Adder\Visio\LadnerFischerAdder_16Bit.pdf  used on input line 95.
+(pdftex.def)             Requested size: 201.26276pt x 94.0538pt.
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input line 111.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 121.
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (c:/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 121.
+ (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (c:/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Overfull \vbox (26.04895pt too high) detected at line 156
+ []
+
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input line 186.
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 1221) in paragraph at lines 201--204
+\OT1/cmr/m/n/10.95 (+20) file and the Carry Skip Adder (CSA) in the
+ []
+
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input line 205.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--211
+[]\OT1/cmr/m/n/10.95 (+20) Alipour Fray-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--211
+\OT1/cmr/m/it/10.95 (+20) Un-pub-lished Manuscript\OT1/cmr/m/n/10.95 (+20) , De-part-ment of
+ []
+
+
+AED: lastpage setting LastPage
+[1{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+ <c:/Users/USER/Documents/edit_project/Adder/Visio/LadnerFischerAdder_16Bit.pdf>] (c:/Users/USER/Documents/edit_project/Adder/Report/adder.aux) ) 
+Here is how much of TeX's memory you used:
+ 10845 strings out of 478994
+ 197277 string characters out of 5862206
+ 777490 words of memory out of 5000000
+ 28085 multiletter control sequences out of 15000+600000
+ 422400 words of font info for 107 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 111i,11n,116p,10650b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on c:/Users/USER/Documents/edit_project/Adder/Report/adder.pdf (1 page, 153813 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 39942 words of extra memory for PDF output out of 42996 (max. 10000000)
+

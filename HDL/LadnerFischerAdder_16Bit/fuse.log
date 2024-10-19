@@ -1,0 +1,24 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/LadnerFischerAdder_16Bit_tb_isim_beh.exe" -prj "C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/LadnerFischerAdder_16Bit_tb_beh.prj" "work.LadnerFischerAdder_16Bit_tb" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/g_a_OUT.vhd" into library work
+Parsing VHDL file "C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/a_g_p_Creator.vhd" into library work
+Parsing VHDL file "C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/LadnerFischerAdder_16Bit.vhd" into library work
+Parsing VHDL file "C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/LadnerFischerAdder_16Bit_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity a_g_p_Creator [a_g_p_creator_default]
+Compiling architecture behavioral of entity g_a_OUT [g_a_out_default]
+Compiling architecture behavioral of entity LadnerFischerAdder_16Bit [ladnerfischeradder_16bit_default]
+Compiling architecture behavior of entity ladnerfischeradder_16bit_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 10 VHDL Units
+Built simulation executable C:/Users/User/Documents/ISE_Project/LadnerFischerAdder_16Bit/LadnerFischerAdder_16Bit_tb_isim_beh.exe
+Fuse Memory Usage: 36524 KB
+Fuse CPU Usage: 437 ms
