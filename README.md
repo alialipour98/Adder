@@ -1,6 +1,3 @@
-# Creating an integrated Readme.md file based on the provided structure and contents from the extracted folder
-
-readme_content = """
 # LadnerFischerAdder_16Bit and SignedDigitAdder_16Bit Project
 
 This project contains implementations of two types of adders:
